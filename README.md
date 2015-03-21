@@ -7,6 +7,10 @@ This is just a wrapper for using [Logentries](https://logentries.com) with Meteo
 
 If you want to improve it, feel free to send a pull request.
 
+## Installation
+
+`meteor add gabrielhpugliese:logentries`
+
 ## Usage
 
 On server, create the global var `le_meteor`
